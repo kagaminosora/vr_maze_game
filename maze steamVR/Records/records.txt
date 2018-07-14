@@ -1,0 +1,10 @@
+Third-person, Off, 33.64
+View: Third-person, Guide: On, Time: 32.88
+View: First-person, Guide: On, Time: 7.30
+View: First-person, Guide: On, Time: 66.44
+View: First-person, Guide: On, Time: 57.12
+View: Third-person, Guide: On, Time: 97.30
+View: Third-person, Guide: On, Time: 47.02
+View: First-person, Guide: Off, Time: 46.79 s;
+View: Third-person, Guide: Off, Time: 61.65 s;
+View: Third-person, Guide: On, Time: 55.26s;

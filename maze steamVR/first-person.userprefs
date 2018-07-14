@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Oculus\VR\Scripts\Util\OVRRaycaster.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Collectable.cs" Line="26" Column="56" />
+      <File FileName="Assets\Oculus\VR\Scripts\Util\OVRRaycaster.cs" Line="96" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

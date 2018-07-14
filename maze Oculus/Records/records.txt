@@ -1,0 +1,400 @@
+Third-person, Off, 33.64
+View: Third-person, Guide: On, Time: 32.88
+View: First-person, Guide: On, Time: 7.30
+View: First-person, Guide: On, Time: 66.44
+View: First-person, Guide: On, Time: 57.12
+View: Third-person, Guide: On, Time: 97.30
+View: Third-person, Guide: On, Time: 47.02
+View: First-person, Guide: Off, Time: 46.79 s;
+View: Third-person, Guide: Off, Time: 61.65 s;
+View: Third-person, Guide: On, Time: 55.26s;
+View: First-person, Guide: On, Time: 119.63s;
+View: First-person, Guide: On, Time: 68.37s;
+View: First-person, Guide: On, Time: 53.19s;
+View: First-person, Guide: On, Time: 51.12s;
+View: First-person, Guide: On, Time: 108.74s;
+View: First-person, Guide: On, Time: 43.97s;
+View: First-person, Guide: On, Time: 37.37s;
+View: First-person, Guide: On, Time: 48.21s;
+View: First-person, Guide: On, Time: 53.59s;
+View: First-person, Guide: On, Time: 53.25s;
+View: First-person, Guide: On, Time: 53.67s;
+View: First-person, Guide: On, Time: 75.28s;
+View: First-person, Guide: On, Time: 49.85s;
+View: First-person, Guide: On, Time: 46.49s;
+View: First-person, Guide: On, Time: 56.70s;
+View: First-person, Guide: On, Time: 59.84s;
+View: First-person, Guide: On, Time: 57.12s;
+View: First-person, Guide: On, Time: 50.77s;
+View: First-person, Guide: Off, Time: 67.52s;
+View: Third-person, Guide: On, Time: 64.08s;View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.620449, -1.072884E-06) -> 
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 58.92s;
+(-1.75, -1.311302E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.8495, -4.529953E-06) -> 
+
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 62.09s;
+(-1.75, -4.529953E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 37.17s;
+(-1.849847, -2.801418E-06) -> 
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 43.22s;
+(-1.043223, -2.861023E-06) -> 
+
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 37.83s;
+(0.3742932, -2.44379E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.700331, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.700331, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.700331, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.700331, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.700331, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.700331, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.700331, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.700331, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.700331, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.70033, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.70033, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.70033, 1.013279E-06) -> 
+View: Third-person, Guide: On, Time: 149.92s;
+(-1.70033, 4.768372E-07) -> 

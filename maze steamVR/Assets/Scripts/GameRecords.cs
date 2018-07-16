@@ -5,6 +5,8 @@ using UnityEngine.UI;
 using System.IO;
 
 public class GameRecords : MonoBehaviour {
+    private string path;
+
     private bool guide = false; //play the game with a guide - true; without a guide - false;
     private bool firstPersonView = false;  //first-person view - true; third-person view - false;
 
@@ -16,6 +18,7 @@ public class GameRecords : MonoBehaviour {
     private string positionRecords;
     private int count; //count the number of position records
 
+
     public Text winText;
     public Text timer;
     public GameObject gameOverCanvas;
@@ -23,9 +26,12 @@ public class GameRecords : MonoBehaviour {
 
     void Start()
     {
+        path = Directory.GetCurrentDirectory();
+        path += @"\Records\records.txt";
         startTime = Time.time;
         timer.text = "Timer: 0s";
         winText.text = "";
+        Debug.Log(path);
     }
 
     void FixedUpdate()
@@ -95,7 +101,7 @@ public class GameRecords : MonoBehaviour {
 
         gameRecord += "Time: "+ gameDuration+"s;";
 
-        using (StreamWriter sw = new StreamWriter(@"D:\maze\first-person\Records\records.txt", true))
+        using (StreamWriter sw = new StreamWriter(path, true))
         {
             sw.WriteLine(gameRecord);
             sw.WriteLine(positionRecords);

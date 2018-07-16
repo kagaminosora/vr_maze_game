@@ -3629,6 +3629,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   winText: {fileID: 1003197835}
   timer: {fileID: 869053499}
+  gameOverCanvas: {fileID: 712935200}
+  player: {fileID: 1896139872}
 --- !u!4 &950459797
 Transform:
   m_ObjectHideFlags: 0

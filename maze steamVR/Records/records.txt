@@ -8,3 +8,4 @@ View: Third-person, Guide: On, Time: 47.02
 View: First-person, Guide: Off, Time: 46.79 s;
 View: Third-person, Guide: Off, Time: 61.65 s;
 View: Third-person, Guide: On, Time: 55.26s;
+got it!

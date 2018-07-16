@@ -2118,6 +2118,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   winText: {fileID: 613175994}
   timer: {fileID: 907457020}
+  gameOverCanvas: {fileID: 1172541253}
+  player: {fileID: 586694442}
 --- !u!4 &661628762
 Transform:
   m_ObjectHideFlags: 0
@@ -2391,6 +2393,16 @@ Prefab:
     - target: {fileID: 1513148843911002, guid: 8fee8ae7b267b32448a39703c25dcda5, type: 2}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224178205696948620, guid: 8fee8ae7b267b32448a39703c25dcda5,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224295745712438170, guid: 8fee8ae7b267b32448a39703c25dcda5,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8fee8ae7b267b32448a39703c25dcda5, type: 2}

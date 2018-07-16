@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ThirdPersonMaze(With Guide).unity
+- path: Assets/FirstPersonMaze(With Guide).unity
   isLoaded: 1
   isActive: 1

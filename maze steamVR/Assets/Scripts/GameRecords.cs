@@ -77,7 +77,6 @@ public class GameRecords : MonoBehaviour {
 
     private void GameOver()
     {
-        winText.text = "You Win";
         gameOverCanvas.SetActive(true);
 
         string gameRecord = "";

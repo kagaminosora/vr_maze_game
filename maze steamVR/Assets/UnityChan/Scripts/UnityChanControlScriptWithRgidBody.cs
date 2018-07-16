@@ -23,6 +23,7 @@ public class UnityChanControlScriptWithRgidBody : MonoBehaviour
 												// このスイッチが入っていないとカーブは使われない
 	public float useCurvesHeight = 0.5f;		// カーブ補正の有効高さ（地面をすり抜けやすい時には大きくする）
     public static bool win = false;
+    public Text winText;
 
 	// 以下キャラクターコントローラ用パラメタ
 	// 前進速度
@@ -306,6 +307,10 @@ public class UnityChanControlScriptWithRgidBody : MonoBehaviour
         //アニメーションのステートがLocomotionの最中のみジャンプできる
         rb.AddForce(Vector3.up * jumpPower, ForceMode.VelocityChange);
         anim.SetBool("Jump", true);     // Animatorにジャンプに切り替えるフラグを送る
-        recordmanager.SendMessage("GameOver");
+        if (!win)
+        {
+            winText.text = "You Win";
+            win = true;
+        }  
     }
 }
